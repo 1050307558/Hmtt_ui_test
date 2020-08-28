@@ -1,0 +1,16 @@
+{
+  "test_pub_ari_01":
+  {
+    "ari_title":"BJ23_TESTNB_{}",
+    "ari_context": "我不想学测试，要秃头的",
+    "ari_channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+  "test_pub_ari_02":
+  {
+    "ari_title":"BJ23_TEST_lj_{}",
+    "ari_context": "学个几把的测试",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}
